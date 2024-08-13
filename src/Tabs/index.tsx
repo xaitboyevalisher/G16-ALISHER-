@@ -14,7 +14,7 @@ import { FaCreditCard } from "react-icons/fa";
 import NewCard from "./NewCard";
 import MyCards from "./MyCards";
 
-const TabsSection: React.FC = () => {
+const TabsSection = () => {
   return (
     <Tabs variant="soft-rounded" colorScheme="purple" width="100%">
       <TabList>
